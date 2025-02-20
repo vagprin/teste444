@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprenda a Criar Sites</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 20px; background-color: #f4f4f4; }
+        header { background: #333; color: #fff; padding: 15px; text-align: center; }
+        section { background: #fff; padding: 20px; margin-top: 10px; border-radius: 5px; }
+        footer { text-align: center; padding: 10px; margin-top: 10px; background: #333; color: white; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Aprenda a Criar Sites</h1>
+    </header><section>
+    <h2>Introdução ao Desenvolvimento Web</h2>
+    <p>Aprenda os fundamentos do HTML, CSS e JavaScript para criar sites incríveis.</p>
+</section>
+<section>
+    <h2>Estruturando seu Primeiro Site</h2>
+    <p>Veja como criar um site básico com HTML e estilizar com CSS.</p>
+</section>
+<section>
+    <h2>Publicação do Site</h2>
+    <p>Descubra como hospedar seu site gratuitamente na internet.</p>
+</section>
+<footer>
+    <p>&copy; 2025 Aprenda a Criar Sites</p>
+</footer>
+</body>
+</html>
